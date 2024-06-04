@@ -9,8 +9,8 @@ env:
   ###############################################
   ### Replace <username> with GitHub username ###
   ###############################################
-  DOCKER_IMAGE_NAME: wesgm-azure-ttt
-  AZURE_WEBAPP_NAME: wesgm-ttt-app
+  DOCKER_IMAGE_NAME: wxm809-azure-ttt
+  AZURE_WEBAPP_NAME: wxm809-ttt-app
   ###############################################
 
 jobs:
