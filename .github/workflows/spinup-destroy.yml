@@ -12,7 +12,7 @@ env:
   ###############################################
   ### Replace <username> with GitHub username ###
   ###############################################
-  AZURE_WEBAPP_NAME: wesgm-ttt-app
+  AZURE_WEBAPP_NAME: wxm809-ttt-app
 
 jobs:
   setup-up-azure-resources:
